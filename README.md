@@ -41,4 +41,15 @@ https://wokwi.com/projects/410154375421072385
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+Examen 1:
+<img width="100" src="https://github.com/RamirezLuisManuel/PersonajeNavidenio2024/blob/main/Examen1.png?raw=true"/><br>
+Examen 2:
+<img width="100" src="https://github.com/RamirezLuisManuel/PersonajeNavidenio2024/blob/main/Examen2.png?raw=true"/><br>
+Examen 3:
+<img width="100" src="https://github.com/RamirezLuisManuel/PersonajeNavidenio2024/blob/main/Examen3.png?raw=true"/><br>
+Examen 4:
+<img width="100" src="https://github.com/RamirezLuisManuel/PersonajeNavidenio2024/blob/main/Examen4.png?raw=true"/><br>
+Examen 5:
+<img width="100" src="https://github.com/RamirezLuisManuel/PersonajeNavidenio2024/blob/main/Examen5.png?raw=true"/><br>
+Examen Final:
+<img width="100" src="https://github.com/RamirezLuisManuel/PersonajeNavidenio2024/blob/main/ExamenFinal.png?raw=true"/><br>
