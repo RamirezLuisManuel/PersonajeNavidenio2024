@@ -19,13 +19,17 @@ Se deben encender dos leds cuando el censor de movimiento sienta movimiento cerc
 |Silicon|<img width="100" src="https://www.officedepot.com.mx/medias/61154-1200ftw?context=bWFzdGVyfHJvb3R8NzA3MDl8aW1hZ2UvZ2lmfGFHSmlMMmcwTlM4NU1EY3dOVEkzTnpBNU1qRTBMbWRwWmd8MjRlNzhkZGIzY2M2M2Q1MjkyYWZmZDBmMzk5ODE0NzUzYWRhOWQ3ZDFkMGFlNTAxNzIxYmFjNmYwZTAxMzA5Yg" />|1|65.00|
 |Carton|<img width="100" src="https://m.media-amazon.com/images/I/61Fwr6MU17L._AC_SX679_.jpg" />|1|0.00|
 |Cartulina roja|<img width="100" src="https://papeleriadelahorro.mx/cdn/shop/products/0001_x800_6bc9c6f9-dbf4-43a9-944d-760c48e9e427.jpg?v=1675381930&width=1600" />|1|15.00|
-|...||||
+
 
 ## Software a utilizar
 |Software|Versión|
 |--|--|
 |Thonny|4.1.6|
-|...||
+|Arduini IDE|2.3.2|
+|Fritzing|2.3.2|
+|Node-Red|2.3.2|
+|TinkerCAD|2.3.2|
+
 
 ## Dibujo del personaje
 <img width="100" src="https://github.com/RamirezLuisManuel/PersonajeNavidenio2024/blob/main/Dibujo.jpg?raw=true"/>
