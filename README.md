@@ -28,10 +28,14 @@ Se deben encender dos leds cuando el censor de movimiento sienta movimiento cerc
 |...||
 
 ## Dibujo del personaje
-<img width="100" src="..//Dibujo.jpg"/>
+<img width="100" src="https://github.com/RamirezLuisManuel/PersonajeNavidenio2024/blob/main/Dibujo.jpg?raw=true"/>
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+Enlace del simulacion "Casa inteligente":
+https://wokwi.com/projects/409984012101249025
+Enlace del simulacion "Personaje navideno":
+https://wokwi.com/projects/410154375421072385
+
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
